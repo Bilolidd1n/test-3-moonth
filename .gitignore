@@ -1,0 +1,5 @@
+clients.db
+config.py
+./venv
+./__pycache__
+requiremens.txt
